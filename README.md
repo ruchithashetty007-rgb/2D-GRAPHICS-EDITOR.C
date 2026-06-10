@@ -7,10 +7,10 @@ Interactive Controls : Clear canvas functionality and shape deletion.
   Custom Character Rendering : Dynamically plots shapes using custom characters like * on an adjustable grid.
 
 ## How to Run
-Open the project in VS Code.
+Step1 : Open the project in VS Code.
 
-Compile and run main.c using a C compiler (GCC). 
+Step2 : Compile and run main.c using a C compiler (GCC). 
 
-Use the numeric menu choices in the terminal to interact with the canvas grid.
+Step3 : Use the numeric menu choices in the terminal to interact with the canvas grid.
 
 4.
