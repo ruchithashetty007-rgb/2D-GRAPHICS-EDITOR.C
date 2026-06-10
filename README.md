@@ -10,5 +10,5 @@ Interactive Controls : Clear canvas functionality and shape deletion.
 1.Open the project in VS Code.
 
 2.Compile and run main.c using a C compiler (GCC). 
-                                                                                                                                                           3. Use the numeric menu choices in the terminal to interact with the canvas grid.
+                                                                                                                                                                         3. Use the numeric menu choices in the terminal to interact with the canvas grid.
       4.
